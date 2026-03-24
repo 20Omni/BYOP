@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1O9d4QYTkqfYSjFFbeZOO0zTe-_V-Vwnc
 """
 
-pip install streamlit opencv-python numpy
+
 
 import streamlit as st
 import cv2
